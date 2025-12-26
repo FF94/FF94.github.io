@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "Dr. Raphaela Gärtner"
-description: "Psychologist & Researcher"
+title: 
+"#Dr. Raphaela Gärtner
+##Psychologist & Researcher"
 author_profile: true
 redirect_from: 
   - /about/
