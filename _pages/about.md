@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dr. Raphaela Gärtner
+Psychologist & Researcher | Specializing in Stress Regulation, Psychophysiology, and Personality Disorders"
 author_profile: true
 redirect_from: 
   - /about/
