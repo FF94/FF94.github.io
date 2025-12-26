@@ -9,6 +9,10 @@ redirect_from:
   - /about.html
 ---
 
+<h1 style="font-size: 2.5em; margin-bottom: 10px;">Dr. Raphaela Gärtner</h1>
+<hr style="width: 100px; height: 3px; background-color: #0066cc; border: none; margin: 10px 0;">
+<p style="font-size: 1.2em; color: #666; margin-top: 10px;">Psychologist & Researcher</p>
+
 ## About Me
 
 I am a postdoctoral researcher at the University of Konstanz, specializing in stress research and psychophysiology. My work focuses on understanding physiological stress responses and their regulation through environmental and technological interventions.
