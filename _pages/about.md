@@ -36,8 +36,7 @@ I am driven by the synergy between applied psychotherapy and data-driven researc
 Publications
 ======
 - [Patients with borderline personality disorder show initially reduced psychophysiological relaxation levels but intact relaxation response](https://pubmed.ncbi.nlm.nih.gov/40578122/)
-Gaertner, R. J., Klink, E. S., Benz, A. B., Denk, B. F., Meier, M., Wienhold, S., Volkmer, N., Kossmann, K. E., & Pruessner, J. C. (2025). Patients with borderline personality disorder show initially reduced psychophysiological relaxation levels but intact relaxation response. Comprehensive Psychiatry, 152618.
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Gaertner, R. J., Klink, E. S., Benz, A. B., Denk, B. F., Meier, M., Wienhold, S., Volkmer, N., Kossmann, K. E., & Pruessner, J. C. (2025). Comprehensive Psychiatry, 152618.
+
 
 
