@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "Dr. Raphaela Gärtner
-Psychologist & Researcher | Specializing in Stress Regulation, Psychophysiology, and Personality Disorders"
+Psychologist & Researcher  
+Specializing in Stress Regulation, Psychophysiology, and Personality Disorders"
 author_profile: true
 redirect_from: 
   - /about/
